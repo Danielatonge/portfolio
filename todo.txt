@@ -1,0 +1,5 @@
+1. Cross check links e.g navbar link hover state 
+2. Review Projects section, each project should have its page
+3. Create a contact form
+4. Design and create an about page
+5. Host the project using github pages
